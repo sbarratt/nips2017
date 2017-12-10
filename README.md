@@ -2,44 +2,44 @@
 
 ## Monday (Tutorials)
 
-[A Primer on Optimal Transport](https://www.dropbox.com/s/ct3500ko00i5sz3/aprimeronOT.m4v?dl=0) ([slides](https://www.dropbox.com/s/55tb2cf3zipl6xu/aprimeronOT.pdf?dl=0))
-[Deep Learning: Practice and Trends](https://www.youtube.com/watch?v=YJnddoa8sHk)
-[Reinforcement Learning with People](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnipsfoundation%2Fvideos%2F1555771847847382%2F&show_text=0&width=560)
-[Fairness in Machine Learning](http://mrtz.org/nips17/#/)
-[Statistical Relational Artificial Intelligence: Logic, Probability and Computation](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnipsfoundation%2Fvideos%2F1552222671535633%2F&show_text=0&width=560)
-[Deep Probabilistic Modelling with Gaussian Processes](https://www.youtube.com/watch?v=NHTGY8VCinY)
-[Differentially Private Machine Learning: Theory, Algorithms and Applications](http://www.ece.rutgers.edu/~asarwate/nips2017/)
-[Geometric Deep Learning on Graphs and Manifolds](https://www.dropbox.com/s/zdosxw3nc3f1p2r/NIPS-GDL.pdf?dl=0)
-[Engineering and Reverse-Engineering Intelligence Using Probabilistic Programs, Program Induction, and Deep Learning](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnipsfoundation%2Fvideos%2F1552446408179926%2F&show_text=0&width=560)
-[Opening Remarks and Powering the next 100 years](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnipsfoundation%2Fvideos%2F1552610871496813%2F&show_text=0&width=560)
+[A Primer on Optimal Transport](https://www.dropbox.com/s/ct3500ko00i5sz3/aprimeronOT.m4v?dl=0)    ([slides](https://www.dropbox.com/s/55tb2cf3zipl6xu/aprimeronOT.pdf?dl=0))   
+[Deep Learning: Practice and Trends](https://www.youtube.com/watch?v=YJnddoa8sHk)   
+[Reinforcement Learning with People](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnipsfoundation%2Fvideos%2F1555771847847382%2F&show_text=0&width=560)   
+[Fairness in Machine Learning](http://mrtz.org/nips17/#/)   
+[Statistical Relational Artificial Intelligence: Logic, Probability and Computation](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnipsfoundation%2Fvideos%2F1552222671535633%2F&show_text=0&width=560)   
+[Deep Probabilistic Modelling with Gaussian Processes](https://www.youtube.com/watch?v=NHTGY8VCinY)   
+[Differentially Private Machine Learning: Theory, Algorithms and Applications](http://www.ece.rutgers.edu/~asarwate/nips2017/)   
+[Geometric Deep Learning on Graphs and Manifolds](https://www.dropbox.com/s/zdosxw3nc3f1p2r/NIPS-GDL.pdf?dl=0)   
+[Engineering and Reverse-Engineering Intelligence Using Probabilistic Programs, Program Induction, and Deep Learning](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnipsfoundation%2Fvideos%2F1552446408179926%2F&show_text=0&width=560)   
+[Opening Remarks and Powering the next 100 years](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnipsfoundation%2Fvideos%2F1552610871496813%2F&show_text=0&width=560)   
 
 ## Tuesday (Conference)
 
-[Invited Talk:  Brendan Frey:  Why AI Will Make it Possible to Reprogram the Human Genome](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnipsfoundation%2Fvideos%2F1553236368100930%2F&show_text=0&width=560)
-[Test of Time Award](https://www.youtube.com/watch?v=Qi1Yry33TQE)
-Parallel Tracks on [Algorithms](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnipsfoundation%2Fvideos%2F1553335844757649%2F&show_text=0&width=560) and [Optimization](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnipsfoundation%2Fvideos%2F1553355798088987%2F&show_text=0&width=560)
-[Invited Talk: Kate Crawford:  The Trouble wih Bias](https://www.youtube.com/watch?v=fMym_BKWQzk)
-Parallel Tracks on [Algorithms, Optimization](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnipsfoundation%2Fvideos%2F1553537531404147%2F&show_text=0&width=560) and [Theory](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnipsfoundation%2Fvideos%2F1553539891403911%2F&show_text=0&width=560)
-Parallel Tracks on [Deep Learning, Applications](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnipsfoundation%2Fvideos%2F1553634558061111%2F&show_text=0&width=560) and [Algorithms](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnipsfoundation%2Fvideos%2F1553635538061013%2F&show_text=0&width=560)
+[Invited Talk:  Brendan Frey:  Why AI Will Make it Possible to Reprogram the Human Genome](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnipsfoundation%2Fvideos%2F1553236368100930%2F&show_text=0&width=560)   
+[Test of Time Award](https://www.youtube.com/watch?v=Qi1Yry33TQE)   
+Parallel Tracks on [Algorithms](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnipsfoundation%2Fvideos%2F1553335844757649%2F&show_text=0&width=560) and [Optimization](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnipsfoundation%2Fvideos%2F1553355798088987%2F&show_text=0&width=560)   
+[Invited Talk: Kate Crawford:  The Trouble wih Bias](https://www.youtube.com/watch?v=fMym_BKWQzk)   
+Parallel Tracks on [Algorithms, Optimization](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnipsfoundation%2Fvideos%2F1553537531404147%2F&show_text=0&width=560) and [Theory](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnipsfoundation%2Fvideos%2F1553539891403911%2F&show_text=0&width=560)   
+Parallel Tracks on [Deep Learning, Applications](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnipsfoundation%2Fvideos%2F1553634558061111%2F&show_text=0&width=560) and [Algorithms](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnipsfoundation%2Fvideos%2F1553635538061013%2F&show_text=0&width=560)   
 
 
 ## Wednesday (Conference)
 
-[Invited Talk:  Lise Getoor:  The Unreasonable Effectiveness of Structure](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnipsfoundation%2Fvideos%2F1554329184658315%2F&show_text=0&width=560)
-Parallel Tracks on [Theory, Probablilistic Methods](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnipsfoundation%2Fvideos%2F1554402064651027%2F&show_text=0&width=560) [and Deep Learning](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnipsfoundation%2Fvideos%2F1554402331317667%2F&show_text=0&width=560)
-[Invited Talk:  Pieter Abbeel:   Deep Learning for Robotics](https://www.youtube.com/watch?v=po9z_tMuEwE)
-Parallel Tracks on [Reinforcement Learning, Deep Learning](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnipsfoundation%2Fvideos%2F1554654864625747%2F&show_text=0&width=560) and [Optimization](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnipsfoundation%2Fvideos%2F1554657104625523%2F&show_text=0&width=560)
-Parallel Tracks on [Reinforcement Learning, Algorithms, Applications](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnipsfoundation%2Fvideos%2F1554741347950432%2F&show_text=0&width=560) and [Probabilistic Methods, Applications](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnipsfoundation%2Fvideos%2F1554741734617060%2F&show_text=0&width=560)
+[Invited Talk:  Lise Getoor:  The Unreasonable Effectiveness of Structure](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnipsfoundation%2Fvideos%2F1554329184658315%2F&show_text=0&width=560)   
+Parallel Tracks on [Theory, Probablilistic Methods](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnipsfoundation%2Fvideos%2F1554402064651027%2F&show_text=0&width=560) [and Deep Learning](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnipsfoundation%2Fvideos%2F1554402331317667%2F&show_text=0&width=560)   
+[Invited Talk:  Pieter Abbeel:   Deep Learning for Robotics](https://www.youtube.com/watch?v=po9z_tMuEwE)   
+Parallel Tracks on [Reinforcement Learning, Deep Learning](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnipsfoundation%2Fvideos%2F1554654864625747%2F&show_text=0&width=560) and [Optimization](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnipsfoundation%2Fvideos%2F1554657104625523%2F&show_text=0&width=560)   
+Parallel Tracks on [Reinforcement Learning, Algorithms, Applications](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnipsfoundation%2Fvideos%2F1554741347950432%2F&show_text=0&width=560) and [Probabilistic Methods, Applications](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnipsfoundation%2Fvideos%2F1554741734617060%2F&show_text=0&width=560)   
 
 ## Thursday (Conference + Symposia)
 
-[Invited Talk:  Yael Niv:  Learning State Representations](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnipsfoundation%2Fvideos%2F1555427447881822%2F&show_text=0&width=560)
-[Invited Talk:  Yee Whye Teh:  On Bayesian Deep Learning and Deep Bayesian Learning](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnipsfoundation%2Fvideos%2F1555493854541848%2F&show_text=0&width=560)
-Parallel Tracks on [Neuroscience](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnipsfoundation%2Fvideos%2F1555551597869407%2F&show_text=0&width=560) and [Deep Learning, Algorithms](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnipsfoundation%2Fvideos%2F1555553784535855%2F&show_text=0&width=560)
-[Interpretable Machine Learning](http://interpretable.ml/)
-[Metalearning](http://metalearning-symposium.ml/)
-[Deep Reinforcement Learning](https://sites.google.com/view/deeprl-symposium-nips2017/)
-[Kinds of intelligence: types, tests and meeting the needs of society](http://kindsofintelligence.org/)
+[Invited Talk:  Yael Niv:  Learning State Representations](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnipsfoundation%2Fvideos%2F1555427447881822%2F&show_text=0&width=560)   
+[Invited Talk:  Yee Whye Teh:  On Bayesian Deep Learning and Deep Bayesian Learning](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnipsfoundation%2Fvideos%2F1555493854541848%2F&show_text=0&width=560)   
+Parallel Tracks on [Neuroscience](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnipsfoundation%2Fvideos%2F1555551597869407%2F&show_text=0&width=560) and [Deep Learning, Algorithms](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnipsfoundation%2Fvideos%2F1555553784535855%2F&show_text=0&width=560)   
+[Interpretable Machine Learning](http://interpretable.ml/)   
+[Metalearning](http://metalearning-symposium.ml/)   
+[Deep Reinforcement Learning](https://sites.google.com/view/deeprl-symposium-nips2017/)   
+[Kinds of intelligence: types, tests and meeting the needs of society](http://kindsofintelligence.org/)   
 
 ## Friday (Workshops see [website](https://nips.cc/Conferences/2017/Schedule?type=Workshop) for homepages)
 Conversational AI - today's practice and tomorrow's potential   
@@ -99,5 +99,5 @@ Deep Learning: Bridging Theory and Practice
 
 ## Other:
 
-[Nvidia](https://www.youtube.com/watch?v=u6N5RAFRGaE)
-[Tesla](https://www.youtube.com/watch?v=jBbYU6-r5Us)
+[Nvidia](https://www.youtube.com/watch?v=u6N5RAFRGaE)   
+[Tesla](https://www.youtube.com/watch?v=jBbYU6-r5Us)   
